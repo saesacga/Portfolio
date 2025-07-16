@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Samuel Gaviria - Game Developer",
     "description": "",
-    "home_page_url": "file:///C:\Users\Samuel\Documents\Publii\sites\samuel-gaviria-game-developer\preview",
-    "feed_url": "file:///C:\Users\Samuel\Documents\Publii\sites\samuel-gaviria-game-developer\preview/feed.json",
+    "home_page_url": "https://thecontrastudios.com",
+    "feed_url": "https://thecontrastudios.com/feed.json",
     "user_comment": "",
-    "icon": "file:///C:/Users/Samuel/Documents/Publii/sites/samuel-gaviria-game-developer/preview/media/website/Logo2.png",
+    "icon": "https://thecontrastudios.com/media/website/Logo2.png",
     "author": {
         "name": "Samuel Esteban Acosta Gaviria"
     },
     "items": [
         {
-            "id": "file:///C:\Users\Samuel\Documents\Publii\sites\samuel-gaviria-game-developer\preview/tiempos-como-estos/index.html",
-            "url": "file:///C:\Users\Samuel\Documents\Publii\sites\samuel-gaviria-game-developer\preview/tiempos-como-estos/index.html",
+            "id": "https://thecontrastudios.com/tiempos-como-estos/",
+            "url": "https://thecontrastudios.com/tiempos-como-estos/",
             "title": "Tiempos Como Estos",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "file:///C:\Users\Samuel\Documents\Publii\sites\samuel-gaviria-game-developer\preview/media/posts/5/daCSMX.png",
+            "image": "https://thecontrastudios.com/media/posts/5/daCSMX.png",
             "author": {
                 "name": "Samuel Esteban Acosta Gaviria"
             },
@@ -25,11 +25,11 @@
             "date_modified": "2025-07-16T01:34:11-05:00"
         },
         {
-            "id": "file:///C:\Users\Samuel\Documents\Publii\sites\samuel-gaviria-game-developer\preview/el-jardin-de-edgar/index.html",
-            "url": "file:///C:\Users\Samuel\Documents\Publii\sites\samuel-gaviria-game-developer\preview/el-jardin-de-edgar/index.html",
+            "id": "https://thecontrastudios.com/el-jardin-de-edgar/",
+            "url": "https://thecontrastudios.com/el-jardin-de-edgar/",
             "title": "El Jardín de Edgar",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"file:///C:/Users/Samuel/Documents/Publii/sites/samuel-gaviria-game-developer/preview/media/posts/3/Edgar.png\" height=\"250\" width=\"315\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"file:///C:/Users/Samuel/Documents/Publii/sites/samuel-gaviria-game-developer/preview/media/posts/3/responsive/Edgar-xs.png 384w ,file:///C:/Users/Samuel/Documents/Publii/sites/samuel-gaviria-game-developer/preview/media/posts/3/responsive/Edgar-sm.png 600w ,file:///C:/Users/Samuel/Documents/Publii/sites/samuel-gaviria-game-developer/preview/media/posts/3/responsive/Edgar-md.png 768w ,file:///C:/Users/Samuel/Documents/Publii/sites/samuel-gaviria-game-developer/preview/media/posts/3/responsive/Edgar-lg.png 1200w ,file:///C:/Users/Samuel/Documents/Publii/sites/samuel-gaviria-game-developer/preview/media/posts/3/responsive/Edgar-xl.png 1600w\">\n      \n    </figure>\n\n  <p>\n    \n  </p>",
-            "image": "file:///C:\Users\Samuel\Documents\Publii\sites\samuel-gaviria-game-developer\preview/media/posts/3/Edgar-2.png",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://thecontrastudios.com/media/posts/3/Edgar.png\" height=\"250\" width=\"315\" alt=\"\"  sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://thecontrastudios.com/media/posts/3/responsive/Edgar-xs.png 384w ,https://thecontrastudios.com/media/posts/3/responsive/Edgar-sm.png 600w ,https://thecontrastudios.com/media/posts/3/responsive/Edgar-md.png 768w ,https://thecontrastudios.com/media/posts/3/responsive/Edgar-lg.png 1200w ,https://thecontrastudios.com/media/posts/3/responsive/Edgar-xl.png 1600w\">\n      \n    </figure>\n\n  <p>\n    \n  </p>",
+            "image": "https://thecontrastudios.com/media/posts/3/Edgar-2.png",
             "author": {
                 "name": "Samuel Esteban Acosta Gaviria"
             },
