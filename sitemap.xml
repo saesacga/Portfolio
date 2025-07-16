@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://thecontrastudios.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:\Users\Samuel\Documents\GitHub\Portfolio/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://thecontrastudios.com/</loc>
+<loc>file:///C:\Users\Samuel\Documents\GitHub\Portfolio/</loc>
 </url>
 <url>
-<loc>https://thecontrastudios.com/el-jardin-de-edgar/</loc>
+<loc>file:///C:/Users/Samuel/Documents/GitHub/Portfolio/el-jardin-de-edgar/</loc>
 <lastmod>2025-07-16T00:49:49-05:00</lastmod>
 <image:image>
-<image:loc>https://thecontrastudios.com/media/posts/3/Edgar-2.png</image:loc>
+<image:loc>file:///C:/Users/Samuel/Documents/GitHub/Portfolio/media/posts/3/Edgar-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://thecontrastudios.com/media/posts/3/Edgar.png</image:loc>
+<image:loc>file:///C:/Users/Samuel/Documents/GitHub/Portfolio/media/posts/3/Edgar.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

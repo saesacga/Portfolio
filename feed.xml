@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Samuel Gaviria - Game Developer</title>
-    <link href="https://thecontrastudios.com/feed.xml" rel="self" />
-    <link href="https://thecontrastudios.com" />
+    <link href="file:///C:\Users\Samuel\Documents\GitHub\Portfolio/feed.xml" rel="self" />
+    <link href="file:///C:\Users\Samuel\Documents\GitHub\Portfolio" />
     <updated>2025-07-16T00:49:49-05:00</updated>
     <author>
         <name>Samuel Esteban Acosta Gaviria</name>
     </author>
-    <id>https://thecontrastudios.com</id>
+    <id>file:///C:\Users\Samuel\Documents\GitHub\Portfolio</id>
 
     <entry>
         <title>El Jardín de Edgar</title>
         <author>
             <name>Samuel Esteban Acosta Gaviria</name>
         </author>
-        <link href="https://thecontrastudios.com/el-jardin-de-edgar/"/>
-        <id>https://thecontrastudios.com/el-jardin-de-edgar/</id>
-        <media:content url="https://thecontrastudios.com/media/posts/3/Edgar-2.png" medium="image" />
+        <link href="file:///C:\Users\Samuel\Documents\GitHub\Portfolio/el-jardin-de-edgar/index.html"/>
+        <id>file:///C:\Users\Samuel\Documents\GitHub\Portfolio/el-jardin-de-edgar/index.html</id>
+        <media:content url="file:///C:\Users\Samuel\Documents\GitHub\Portfolio/media/posts/3/Edgar-2.png" medium="image" />
             <category term="Unity"/>
 
         <updated>2025-07-15T20:50:55-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://thecontrastudios.com/media/posts/3/Edgar-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="file:///C:\Users\Samuel\Documents\GitHub\Portfolio/media/posts/3/Edgar-2.png" class="type:primaryImage" alt="" /></p>
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://thecontrastudios.com/media/posts/3/Edgar.png" height="250" width="315" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://thecontrastudios.com/media/posts/3/responsive/Edgar-xs.png 384w ,https://thecontrastudios.com/media/posts/3/responsive/Edgar-sm.png 600w ,https://thecontrastudios.com/media/posts/3/responsive/Edgar-md.png 768w ,https://thecontrastudios.com/media/posts/3/responsive/Edgar-lg.png 1200w ,https://thecontrastudios.com/media/posts/3/responsive/Edgar-xl.png 1600w">
+      <img loading="lazy" src="file:///C:/Users/Samuel/Documents/GitHub/Portfolio/media/posts/3/Edgar.png" height="250" width="315" alt=""  sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///C:/Users/Samuel/Documents/GitHub/Portfolio/media/posts/3/responsive/Edgar-xs.png 384w ,file:///C:/Users/Samuel/Documents/GitHub/Portfolio/media/posts/3/responsive/Edgar-sm.png 600w ,file:///C:/Users/Samuel/Documents/GitHub/Portfolio/media/posts/3/responsive/Edgar-md.png 768w ,file:///C:/Users/Samuel/Documents/GitHub/Portfolio/media/posts/3/responsive/Edgar-lg.png 1200w ,file:///C:/Users/Samuel/Documents/GitHub/Portfolio/media/posts/3/responsive/Edgar-xl.png 1600w">
       
     </figure>
 
