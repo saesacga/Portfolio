@@ -11,20 +11,6 @@
     },
     "items": [
         {
-            "id": "https://thecontrastudios.com/tiempos-como-estos/",
-            "url": "https://thecontrastudios.com/tiempos-como-estos/",
-            "title": "Tiempos Como Estos",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://thecontrastudios.com/media/posts/5/daCSMX.png",
-            "author": {
-                "name": "Samuel Esteban Acosta Gaviria"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-07-16T01:34:11-05:00",
-            "date_modified": "2025-07-16T01:34:11-05:00"
-        },
-        {
             "id": "https://thecontrastudios.com/el-jardin-de-edgar/",
             "url": "https://thecontrastudios.com/el-jardin-de-edgar/",
             "title": "El Jardín de Edgar",
