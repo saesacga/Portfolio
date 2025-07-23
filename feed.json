@@ -5,10 +5,62 @@
     "home_page_url": "https://thecontrastudios.com",
     "feed_url": "https://thecontrastudios.com/feed.json",
     "user_comment": "",
-    "icon": "https://thecontrastudios.com/media/website/Logo2.png",
+    "icon": "https://thecontrastudios.com/media/website/Logo.png",
     "author": {
         "name": "Samuel Esteban Acosta Gaviria"
     },
     "items": [
+        {
+            "id": "https://thecontrastudios.com/revuelo/",
+            "url": "https://thecontrastudios.com/revuelo/",
+            "title": "Revuelo",
+            "image": "https://thecontrastudios.com/media/posts/12/Sin-titulo-1.png",
+            "author": {
+                "name": "Samuel Esteban Acosta Gaviria"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-22T21:57:27-05:00",
+            "date_modified": "2025-07-22T22:01:36-05:00"
+        },
+        {
+            "id": "https://thecontrastudios.com/el-contra-club/",
+            "url": "https://thecontrastudios.com/el-contra-club/",
+            "title": "El Contra Club",
+            "image": "https://thecontrastudios.com/media/posts/11/ContraClub.png",
+            "author": {
+                "name": "Samuel Esteban Acosta Gaviria"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-22T21:48:34-05:00",
+            "date_modified": "2025-07-22T21:48:34-05:00"
+        },
+        {
+            "id": "https://thecontrastudios.com/tiempos-como-estos/",
+            "url": "https://thecontrastudios.com/tiempos-como-estos/",
+            "title": "Tiempos Como Estos",
+            "image": "https://thecontrastudios.com/media/posts/10/daCSMX.png",
+            "author": {
+                "name": "Samuel Esteban Acosta Gaviria"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-22T21:36:31-05:00",
+            "date_modified": "2025-07-22T22:02:18-05:00"
+        },
+        {
+            "id": "https://thecontrastudios.com/el-jardin-de-edgar/",
+            "url": "https://thecontrastudios.com/el-jardin-de-edgar/",
+            "title": "El Jardín de Edgar",
+            "image": "https://thecontrastudios.com/media/posts/9/Edgar.png",
+            "author": {
+                "name": "Samuel Esteban Acosta Gaviria"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-22T21:36:08-05:00",
+            "date_modified": "2025-07-22T22:02:21-05:00"
+        }
     ]
 }

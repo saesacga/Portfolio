@@ -3,10 +3,62 @@
     <title>Samuel Gaviria - Game Developer</title>
     <link href="https://thecontrastudios.com/feed.xml" rel="self" />
     <link href="https://thecontrastudios.com" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2025-07-22T22:02:21-05:00</updated>
     <author>
         <name>Samuel Esteban Acosta Gaviria</name>
     </author>
     <id>https://thecontrastudios.com</id>
 
+    <entry>
+        <title>Revuelo</title>
+        <author>
+            <name>Samuel Esteban Acosta Gaviria</name>
+        </author>
+        <link href="https://thecontrastudios.com/revuelo/"/>
+        <id>https://thecontrastudios.com/revuelo/</id>
+        <media:content url="https://thecontrastudios.com/media/posts/12/Sin-titulo-1.png" medium="image" />
+
+        <updated>2025-07-22T21:57:27-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>El Contra Club</title>
+        <author>
+            <name>Samuel Esteban Acosta Gaviria</name>
+        </author>
+        <link href="https://thecontrastudios.com/el-contra-club/"/>
+        <id>https://thecontrastudios.com/el-contra-club/</id>
+        <media:content url="https://thecontrastudios.com/media/posts/11/ContraClub.png" medium="image" />
+
+        <updated>2025-07-22T21:48:34-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Tiempos Como Estos</title>
+        <author>
+            <name>Samuel Esteban Acosta Gaviria</name>
+        </author>
+        <link href="https://thecontrastudios.com/tiempos-como-estos/"/>
+        <id>https://thecontrastudios.com/tiempos-como-estos/</id>
+        <media:content url="https://thecontrastudios.com/media/posts/10/daCSMX.png" medium="image" />
+
+        <updated>2025-07-22T21:36:31-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>El Jardín de Edgar</title>
+        <author>
+            <name>Samuel Esteban Acosta Gaviria</name>
+        </author>
+        <link href="https://thecontrastudios.com/el-jardin-de-edgar/"/>
+        <id>https://thecontrastudios.com/el-jardin-de-edgar/</id>
+        <media:content url="https://thecontrastudios.com/media/posts/9/Edgar.png" medium="image" />
+
+        <updated>2025-07-22T21:36:08-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
