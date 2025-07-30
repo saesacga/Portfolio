@@ -3,7 +3,7 @@
     <title>Samuel Gaviria - Game Developer</title>
     <link href="https://thecontrastudios.com/feed.xml" rel="self" />
     <link href="https://thecontrastudios.com" />
-    <updated>2025-07-30T14:37:03-05:00</updated>
+    <updated>2025-07-30T17:37:29-05:00</updated>
     <author>
         <name>Samuel Esteban Acosta Gaviria</name>
     </author>
@@ -62,11 +62,42 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://thecontrastudios.com/media/posts/9/Jardin.PNG" class="type:primaryImage" alt="" /></p>
-                <div class="post__iframe"><iframe loading="lazy" width="980" height="580" frameborder="0" src="https://itch.io/embed-upload/14405887?color=f8dcff" allowfullscreen="allowfullscreen"><a href="https://pank-studio.itch.io/el-jardin-de-edgar">Play El Jardin de Edgar on itch.io</a></iframe></div>
-<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" autoplay="autoplay" loop="loop" data-mce-fragment="1">
+                <p class="align-center msg--highlight msg msg--info"><strong>El Jardín de Edgar es un juego narrativo de tipo Point and Click inspirado en la literatura de Edgar Allan Poe.</strong><strong> El juego ganó una convocatoria para participar en el XXII Festival Internacional de la Imagen en el año 2023.</strong></p>
+<table style="border-collapse: collapse; width: 100.001%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 13.6903%;">Unity 2D</td>
+<td class="align-center" style="width: 12.9773%;">C#</td>
+<td class="align-center" style="width: 16.5425%;">Fungus</td>
+<td class="align-center" style="width: 19.965%;">Guionista</td>
+<td class="align-center" style="width: 16.5425%;">Diseñador sonoro</td>
+<td class="align-center" style="width: 20.2502%;">Desarrollador principal</td>
+</tr>
+</tbody>
+</table>
+<div class="post__iframe"><iframe loading="lazy" width="980" height="580" frameborder="0" src="https://itch.io/embed-upload/14405887?color=f8dcff" allowfullscreen="allowfullscreen"><a href="https://pank-studio.itch.io/el-jardin-de-edgar">Play El Jardin de Edgar on itch.io</a></iframe></div>
+<h3 class="align-center">El Gameplay</h3>
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
+<source src="https://thecontrastudios.com/media/posts/9/Atmosphere-2.mp4" type="video/mp4" /></video></figure>
+<p class="align-left" data-start="487" data-end="804"><strong data-start="487" data-end="509">El Jardín de Edgar</strong> es un juego narrativo de exploración en 2D con una duración de entre 30 y 40 minutos, desarrollado en Unity. Inspirado en la obra de <strong data-start="643" data-end="662">Edgar Allan Poe</strong>, su diseño visual, sonoro y narrativo busca construir una atmósfera de misterio que acompaña al jugador durante todo el recorrido.</p>
+<p class="align-left" data-start="809" data-end="1203">El gameplay se basa en mecánicas simples del género <em data-start="861" data-end="878">point and click</em>, como la recolección de objetos, el crafteo y la interacción contextual con el entorno. Estas mecánicas permiten una navegación fluida por el mundo del juego, fomentando el descubrimiento y la experimentación. El diseño apunta a generar momentos de deducción y resolución natural, evitando soluciones forzadas o arbitrarias.</p>
+<p class="align-left" data-start="1208" data-end="1683">En términos de experiencia y estructura, El Jardín de Edgar toma inspiración directa de títulos como <em data-start="1313" data-end="1328">The Last Door</em> de The Game Kitchen, replicando su enfoque en una narrativa progresiva y cargada de simbolismo. Al igual que en <em data-start="1441" data-end="1456">The Last Door</em>, la influencia de Poe no solo es estética, sino que guía el tono del juego, con referencias a cuentos como <em data-start="1564" data-end="1586">El escarabajo de oro</em>, <em data-start="1588" data-end="1618">El demonio de la perversidad</em>, <em data-start="1620" data-end="1635">El gato negro</em>, <em data-start="1637" data-end="1659">El pozo y el péndulo</em> y <em data-start="1662" data-end="1682">El corazón delator</em>.</p>
+<p class="align-left" data-start="1259" data-end="1432">Este enfoque busca no solo rendir homenaje a la obra de Poe, sino también sumergir al jugador en un universo coherente y evocador que mezcla lo literario con lo interactivo.</p>
+<h3 class="align-center">Visual Scripting con Fungus</h3>
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" autoplay="autoplay" loop="loop" muted="" data-mce-fragment="1">
 <source src="https://thecontrastudios.com/media/posts/9/FungusExample.mp4" type="video/mp4" /></video></figure>
-<p>Hablar del jardin, enfatizar sus puntos fuertes (apartado visual y diseño sonoro y musical para generar atmosfera edgar allan poe, narrativo y mécanico)</p>
-<p>Mencionar Fungus, visual scripting etc, astar pathfinding, cinemachine.</p>
+<p class="align-left" data-start="330" data-end="775"><strong data-start="330" data-end="352">El Jardín de Edgar</strong> fue el primer videojuego que desarrollé. Dado que en ese momento tenía poca experiencia con C#, opté por un enfoque híbrido que combinara lo mejor de dos mundos: el desarrollo tradicional con scripts en C# y componentes de Unity, y la implementación de sistemas narrativos mediante <strong data-start="635" data-end="645">Fungus</strong>, un paquete gratuito y de código abierto diseñado específicamente para crear experiencias interactivas centradas en la narrativa.</p>
+<p class="align-left" data-start="780" data-end="1223">Esta combinación me permitió concentrarme en el diseño del flujo narrativo, la progresión de eventos y las decisiones del jugador, sin comprometer funcionalidades clave del juego como la navegación, el manejo de inventario y la interacción con el entorno. Fungus resultó una herramienta valiosa para estructurar diálogos y escenas de forma visual.</p>
+<h3 class="align-center">A* Pathfinding Project</h3>
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" autoplay="autoplay" loop="loop" muted="" data-mce-fragment="1">
+<source src="https://thecontrastudios.com/media/posts/9/PathfindExample.mp4" type="video/mp4" /></video></figure>
+<p class="align-left" data-start="378" data-end="758">El movimiento del personaje es una de las piezas fundamentales en un juego <em data-start="453" data-end="470">point and click</em>, ya que define la fluidez con la que el jugador navega por el mundo y percibe sus interacciones. En lugar de utilizar el sistema NavMesh incorporado en Unity, opté por integrar el paquete <strong data-start="659" data-end="686">A* Pathfinding Project</strong>, una solución más flexible y precisa para las necesidades del proyecto.</p>
+<p class="align-left" data-start="763" data-end="1149">Esta decisión me permitió implementar un sistema de navegación más refinado, donde el personaje puede sortear obstáculos y moverse por escenarios complejos de forma más natural. A* ofrecía un mayor control sobre el comportamiento del agente, así como una mejor adaptación a los entornos 2D, lo que resultó esencial para lograr una experiencia de exploración fluida y sin frustraciones.</p>
+<h3 class="align-center">Cámara y narrativa visual con Cinemachine</h3>
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" autoplay="autoplay" loop="loop" muted="" data-mce-fragment="1">
+<source src="https://thecontrastudios.com/media/posts/9/CinemachineExample.mp4" type="video/mp4" /></video> </figure>
+<p class="align-left" data-start="393" data-end="715">En lugar de utilizar la cámara por defecto de Unity, implementé <strong data-start="457" data-end="472">Cinemachine</strong> para gestionar la composición y el movimiento de cámara dentro del juego. Esta herramienta me permitió crear transiciones suaves entre escenas, encuadres dinámicos y efectos de seguimiento que aportan claridad visual y refuerzan la narrativa.</p>
+<p class="align-left" data-start="720" data-end="1032">Gracias a Cinemachine, fue posible dirigir la atención del jugador en momentos clave, resaltar elementos importantes del entorno y presentar eventos narrativos de forma más cinematográfica y pulida. El resultado es una puesta en escena más profesional, coherente con el tono del juego y su inspiración literaria.</p>
             ]]>
         </content>
     </entry>
