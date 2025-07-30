@@ -53,7 +53,7 @@
             "id": "https://thecontrastudios.com/el-jardin-de-edgar/",
             "url": "https://thecontrastudios.com/el-jardin-de-edgar/",
             "title": "El Jardín de Edgar",
-            "content_html": "<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"980\" height=\"580\" frameborder=\"0\" src=\"https://itch.io/embed-upload/14405887?color=f8dcff\" allowfullscreen=\"allowfullscreen\"><a href=\"https://pank-studio.itch.io/el-jardin-de-edgar\">Play El Jardin de Edgar on itch.io</a></iframe></div>\n<p class=\"align-left\">El Jardín de Edgar es una aventura interactiva Point and Click donde tendrás que descubrir los motivos que dejaron a Galileo, el protagonista, en medio de un lugar tan enigmático. </p>\n<p class=\"align-left\">Lleno de escenarios profundos y una historia llena de misterios, tu misión será escapar de este sitio. ¿Qué tipo de cosas tendrás que hacer para llegar al final? ¿Qué te vas a encontrar en este jardín?</p>\n<p class=\"align-left\">Experimenta y descubre todo esto por ti mismo. Tú eres el único responsable del destino de Galileo, tú decides su rumbo y su final. </p>\n<p class=\"align-left\">¡Juega a El Jardín de Edgar y considera apoyar nuestro proyecto de forma totalmente voluntaria!</p>",
+            "content_html": "<p class=\"align-center\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"980\" height=\"580\" frameborder=\"0\" src=\"https://itch.io/embed-upload/14405887?color=f8dcff\" allowfullscreen=\"allowfullscreen\"><a href=\"https://pank-studio.itch.io/el-jardin-de-edgar\">Play El Jardin de Edgar on itch.io</a></iframe></div>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"undefined\" alt=\"\" data-is-external-image=\"true\"></figure>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"150\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://thecontrastudios.com/media/posts/9/FungusExample.mp4\" type=\"video/mp4\" /></video></figure>\n<p>Hablar del jardin, enfatizar sus puntos fuertes (apartado visual y diseño sonoro y musical para generar atmosfera edgar allan poe, narrativo y mécanico)</p>\n<p>Mencionar Fungus, visual scripting etc, astar pathfinding, cinemachine.</p>",
             "image": "https://thecontrastudios.com/media/posts/9/Jardin.PNG",
             "author": {
                 "name": "Samuel Esteban Acosta Gaviria"
@@ -61,7 +61,7 @@
             "tags": [
             ],
             "date_published": "2025-07-19T21:36:00-05:00",
-            "date_modified": "2025-07-28T19:35:04-05:00"
+            "date_modified": "2025-07-30T13:57:29-05:00"
         }
     ]
 }
