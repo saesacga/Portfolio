@@ -3,7 +3,7 @@
     <title>Samuel Gaviria - Game Developer</title>
     <link href="https://thecontrastudios.com/feed.xml" rel="self" />
     <link href="https://thecontrastudios.com" />
-    <updated>2025-07-30T13:57:29-05:00</updated>
+    <updated>2025-07-30T14:37:03-05:00</updated>
     <author>
         <name>Samuel Esteban Acosta Gaviria</name>
     </author>
@@ -62,9 +62,8 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://thecontrastudios.com/media/posts/9/Jardin.PNG" class="type:primaryImage" alt="" /></p>
-                <p class="align-center"><div class="post__iframe"><iframe loading="lazy" width="980" height="580" frameborder="0" src="https://itch.io/embed-upload/14405887?color=f8dcff" allowfullscreen="allowfullscreen"><a href="https://pank-studio.itch.io/el-jardin-de-edgar">Play El Jardin de Edgar on itch.io</a></iframe></div>
-<figure class="post__image"><img loading="lazy"  src="undefined" alt="" data-is-external-image="true"></figure>
-<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
+                <div class="post__iframe"><iframe loading="lazy" width="980" height="580" frameborder="0" src="https://itch.io/embed-upload/14405887?color=f8dcff" allowfullscreen="allowfullscreen"><a href="https://pank-studio.itch.io/el-jardin-de-edgar">Play El Jardin de Edgar on itch.io</a></iframe></div>
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" autoplay="autoplay" loop="loop" data-mce-fragment="1">
 <source src="https://thecontrastudios.com/media/posts/9/FungusExample.mp4" type="video/mp4" /></video></figure>
 <p>Hablar del jardin, enfatizar sus puntos fuertes (apartado visual y diseño sonoro y musical para generar atmosfera edgar allan poe, narrativo y mécanico)</p>
 <p>Mencionar Fungus, visual scripting etc, astar pathfinding, cinemachine.</p>
