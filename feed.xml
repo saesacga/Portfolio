@@ -3,7 +3,7 @@
     <title>Samuel Gaviria - Game Developer</title>
     <link href="https://thecontrastudios.com/feed.xml" rel="self" />
     <link href="https://thecontrastudios.com" />
-    <updated>2025-08-02T01:19:27-05:00</updated>
+    <updated>2025-08-02T01:30:17-05:00</updated>
     <author>
         <name>Samuel Esteban Acosta Gaviria</name>
     </author>
@@ -72,23 +72,23 @@
 <ul class="align-left" data-start="1136" data-end="1575">
 <li data-start="1136" data-end="1253">
 <p data-start="1138" data-end="1253"><strong data-start="1138" data-end="1150">La magia</strong>, que representa la pasión, permite interactuar con elementos del mundo pero es limitada.</p>
-<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" autoplay="autoplay" loop="loop" muted="" data-mce-fragment="1">
+<figure class="post__video"><video loading="lazy" width="300" height="150" autoplay="autoplay" loop="loop" muted="" data-mce-fragment="1">
 <source src="https://thecontrastudios.com/media/posts/10/TCEMagic.mp4" type="video/mp4" /></video></figure>
 </li>
 <li data-start="1256" data-end="1415">
 <p data-start="1258" data-end="1415"><strong data-start="1258" data-end="1281">La superrecolectora</strong>, que representa la responsabilidad, habilita la recolección de recursos esenciales para avanzar, a costa de ralentizar el flujo del juego.</p>
-<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" autoplay="autoplay" loop="loop" muted="" data-mce-fragment="1">
+<figure class="post__video"><video loading="lazy" width="300" height="150" autoplay="autoplay" loop="loop" muted="" data-mce-fragment="1">
 <source src="https://thecontrastudios.com/media/posts/10/TCECollector.mp4" type="video/mp4" /></video></figure>
 </li>
 <li data-start="1418" data-end="1573">
 <p data-start="1420" data-end="1573"><strong data-start="1420" data-end="1459">El artefacto de movimiento avanzado</strong>, que simboliza la perseverancia, permite explorar zonas peligrosas y distantes, pero puede requerir de mucho ensayo y error.</p>
-<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" autoplay="autoplay" loop="loop" muted="" data-mce-fragment="1">
+<figure class="post__video"><video loading="lazy" width="300" height="150" autoplay="autoplay" loop="loop" muted="" data-mce-fragment="1">
 <source src="https://thecontrastudios.com/media/posts/10/TCEAMA.mp4" type="video/mp4" /></video></figure>
 </li>
 </ul>
 <p class="align-left" data-start="1578" data-end="1903">Cada herramienta fue diseñada no solo para ampliar la jugabilidad, sino para reforzar el tema central del juego: <em data-start="1691" data-end="1743">la imposibilidad de alcanzar un propósito absoluto</em>. A nivel técnico, estas mecánicas se activan progresivamente mediante cofres distribuidos en el mundo, y su funcionamiento se gestiona utilizando el New Input System de Unity, lo que permite reutilizar combinaciones de teclas según el contexto y el estado de progreso del jugador.</p>
 <p class="align-left" data-start="1908" data-end="2098">Aunque aún en fase alfa, <strong data-start="1933" data-end="1955">Tiempos Como Estos</strong> funciona como experimento jugable para explorar ideas filosóficas a través del diseño de sistemas, evitando el uso directo de texto o diálogo.</p>
-<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" autoplay="autoplay" loop="loop" muted="" data-mce-fragment="1">
+<figure class="post__video"><video loading="lazy" width="300" height="150" autoplay="autoplay" loop="loop" muted="" data-mce-fragment="1">
 <source src="https://thecontrastudios.com/media/posts/10/TCECinemachine.mp4" type="video/mp4" /></video></figure>
             ]]>
         </content>
