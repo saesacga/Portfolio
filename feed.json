@@ -14,6 +14,7 @@
             "id": "https://thecontrastudios.com/revuelo/",
             "url": "https://thecontrastudios.com/revuelo/",
             "title": "Revuelo",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"800\" height=\"450\" src=\"https://www.youtube.com/embed/krDWc30PAGg?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=krDWc30PAGg&amp;controls=0&amp;modestbranding=1&amp;rel=0\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://thecontrastudios.com/media/posts/12/Sin-titulo-1.png",
             "author": {
                 "name": "Samuel Esteban Acosta Gaviria"
@@ -21,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2025-07-22T21:57:00-05:00",
-            "date_modified": "2025-07-22T22:07:28-05:00"
+            "date_modified": "2025-08-02T01:42:17-05:00"
         },
         {
             "id": "https://thecontrastudios.com/el-contra-club/",
@@ -48,7 +49,7 @@
             "tags": [
             ],
             "date_published": "2025-07-20T21:36:00-05:00",
-            "date_modified": "2025-08-02T01:30:17-05:00"
+            "date_modified": "2025-08-02T02:01:10-05:00"
         },
         {
             "id": "https://thecontrastudios.com/el-jardin-de-edgar/",
