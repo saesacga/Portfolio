@@ -3,7 +3,7 @@
     <title>Samuel Gaviria - Game Developer</title>
     <link href="https://thecontrastudios.com/feed.xml" rel="self" />
     <link href="https://thecontrastudios.com" />
-    <updated>2025-08-02T02:14:39-05:00</updated>
+    <updated>2025-08-02T20:12:44-05:00</updated>
     <author>
         <name>Samuel Esteban Acosta Gaviria</name>
     </author>
@@ -23,7 +23,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://thecontrastudios.com/media/posts/12/Sin-titulo-1.png" class="type:primaryImage" alt="" /></p>
-                <div class="post__iframe"><iframe loading="lazy" width="800" height="450" src="https://www.youtube.com/embed/krDWc30PAGg?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=krDWc30PAGg&amp;controls=0&amp;modestbranding=1&amp;rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"></iframe></div>
+                <p class="msg msg--info align-center"><strong>Revuelo es un juego de cartas tipo <em data-start="212" data-end="224">party game</em> con mecánicas de <em data-start="242" data-end="258">push your luck</em>. Actualmente estoy desarrollando una versión digital con multijugador en línea, enfocándome en el aprendizaje y la implementación de conceptos clave de <em data-start="411" data-end="420">netcode</em> y sincronización de partidas en tiempo real.</strong></p>
             ]]>
         </content>
     </entry>
@@ -38,7 +38,28 @@
 
         <updated>2025-07-22T21:48:34-05:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://thecontrastudios.com/media/posts/11/ContraClub.png" class="type:primaryImage" alt="" /></p>
+                <p class="msg msg--info align-center"><strong>El Contra Club es una serie web de ficción con un estilo artístico híbrido que combina animación 2D con escenarios 3D. A través de este proyecto, desarrollé habilidades clave en narrativa visual, diseño de entornos tridimensionales y dirección artística. La serie ha tenido un alcance notable en plataformas como TikTok y YouTube, acumulando más de 300.000 visualizaciones combinadas.</strong></p>
+<table style="border-collapse: collapse; width: 100.001%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 13.6903%;">Blender</td>
+<td class="align-center" style="width: 21.8189%;">DaVinci Resolve</td>
+<td class="align-center" style="width: 13.1227%;">Guionista</td>
+<td class="align-center" style="width: 17.9657%;">Artista 3D</td>
+<td class="align-center" style="width: 15.5442%;">Dirección</td>
+<td class="align-center" style="width: 17.8259%;">Community Manager</td>
+</tr>
+</tbody>
+</table>
+<p class="align-center"><video loading="lazy" width="370" height="580" controls="controls" data-mce-fragment="1">
+<source src="https://thecontrastudios.com/media/posts/11/EP7Es.webm" type="video/webm" /></video></p>
+<p class="align-center"><video loading="lazy" width="370" height="580" controls="controls" data-mce-fragment="1">
+<source src="https://thecontrastudios.com/media/posts/11/13.webm" type="video/webm" /></video></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Tiempos Como Estos</title>
