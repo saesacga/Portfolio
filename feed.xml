@@ -3,7 +3,7 @@
     <title>Samuel Gaviria - Game Developer</title>
     <link href="https://thecontrastudios.com/feed.xml" rel="self" />
     <link href="https://thecontrastudios.com" />
-    <updated>2025-08-02T20:56:35-05:00</updated>
+    <updated>2025-08-06T16:15:43-05:00</updated>
     <author>
         <name>Samuel Esteban Acosta Gaviria</name>
     </author>
@@ -24,6 +24,22 @@
             <![CDATA[
                     <p><img src="https://thecontrastudios.com/media/posts/12/Sin-titulo-1.png" class="type:primaryImage" alt="" /></p>
                 <p class="msg msg--info align-center"><strong>Revuelo es un juego de cartas tipo <em data-start="212" data-end="224">party game</em> con mecánicas de <em data-start="242" data-end="258">push your luck</em>. Actualmente estoy desarrollando una versión digital con multijugador en línea, enfocándome en el aprendizaje y la implementación de conceptos clave de <em data-start="411" data-end="420">netcode</em> y sincronización de partidas en tiempo real.</strong></p>
+<p class="align-center"><a href="https://github.com/saesacga/Tiempos-Como-Estos" class="githublink" target="_blank" rel="noopener"><svg width="40" height="40" viewbox="0 0 98 96" xmlns="http://www.w3.org/2000/svg" class="github-icon"> <path fill-rule="evenodd" clip-rule="evenodd" fill="currentColor" d="M48.854 0C21.839 0 0 22 0 49.217c0 21.756 13.993 40.172 33.405 46.69 2.427.49 3.316-1.059 3.316-2.362 0-1.141-.08-5.052-.08-9.127-13.59 2.934-16.42-5.867-16.42-5.867-2.184-5.704-5.42-7.17-5.42-7.17-4.448-3.015.324-3.015.324-3.015 4.934.326 7.523 5.052 7.523 5.052 4.367 7.496 11.404 5.378 14.235 4.074.404-3.178 1.699-5.378 3.074-6.6-10.839-1.141-22.243-5.378-22.243-24.283 0-5.378 1.94-9.778 5.014-13.2-.485-1.222-2.184-6.275.486-13.038 0 0 4.125-1.304 13.426 5.052a46.97 46.97 0 0 1 12.214-1.63c4.125 0 8.33.571 12.213 1.63 9.302-6.356 13.427-5.052 13.427-5.052 2.67 6.763.97 11.816.485 13.038 3.155 3.422 5.015 7.822 5.015 13.2 0 18.905-11.404 23.06-22.324 24.283 1.78 1.548 3.316 4.481 3.316 9.126 0 6.6-.08 11.897-.08 13.526 0 1.304.89 2.853 3.316 2.364 19.412-6.52 33.405-24.935 33.405-46.691C97.707 22 75.788 0 48.854 0z"></path> </svg></a></p>
+<figure>
+<table style="border-collapse: collapse; width: 100.001%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 20.5355%;">Diseñador de mecánicas</td>
+<td class="align-center" style="width: 20.2502%;">Desarrollador principal</td>
+<td class="align-center" style="width: 17.1141%;">Unity 2D</td>
+<td class="align-center" style="width: 17.8247%;">Illustrator</td>
+<td class="align-center" style="width: 12.4068%;">NGO</td>
+<td class="align-center" style="width: 11.8364%;">C#</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/MQOSbFtUWvo?si=-YBGqaf66LlmF-4f" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
@@ -41,7 +57,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://thecontrastudios.com/media/posts/11/ContraClub.png" class="type:primaryImage" alt="" /></p>
-                <p class="msg msg--info align-center">El <strong>Contra Club es una serie web de ficción con un estilo artístico híbrido que combina animación 2D con escenarios 3D. A través de este proyecto, desarrollé habilidades clave en narrativa visual, diseño de entornos tridimensionales y dirección artística. La serie ha tenido un alcance notable en plataformas como TikTok y YouTube, acumulando más de 300.000 visualizaciones combinadas.</strong></p>
+                <p class="msg msg--info align-center"><strong>El Contra Club es una serie web de ficción con un estilo artístico híbrido que combina animación 2D con escenarios 3D. A través de este proyecto, desarrollé habilidades clave en narrativa visual, diseño de entornos tridimensionales y dirección artística usando el software Blender. La serie ha tenido un alcance notable en plataformas como TikTok y YouTube, acumulando más de 300.000 visualizaciones combinadas.</strong></p>
 <p class="align-center"><a href="https://www.youtube.com/@The_Contra_Club" class="youtubelink" target="_blank" rel="noopener"><svg width="45" height="40" viewbox="0 0 45 40" xmlns="http://www.w3.org/2000/svg" class="click-icon"> <path fill-rule="evenodd" clip-rule="evenodd" fill="currentColor" d="M42.75 10.6c-.35-1.4-1.5-2.6-2.9-3C38 6 22.5 6 22.5 6S7 6 5.15 7.6c-1.4.35-2.55 1.6-2.9 3C1 13.8 1 20 1 20s0 6.2 1.25 9.4c.35 1.4 1.5 2.6 2.9 3C7 34 22.5 34 22.5 34s15.5 0 17.35-1.6c1.4-.35 2.55-1.6 2.9-3C44 26.2 44 20 44 20s0-6.2-1.25-9.4zM17.5 27.5v-15l11 7.5-11 7.5z"></path></svg></a></p>
 <table class="align-center" style="border-collapse: collapse; width: 100.001%;" border="1">
 <tbody>
@@ -55,10 +71,12 @@
 </tr>
 </tbody>
 </table>
-<p class="align-center"><video loading="lazy" width="370" height="580" controls="controls" data-mce-fragment="1">
+<p class="align-center"><video loading="lazy" width="270" height="480" class="vertical-video" controls="controls" data-mce-fragment="1">
+<source src="https://thecontrastudios.com/media/posts/11/13.webm" type="video/webm" /></video><video loading="lazy" width="270" height="480" class="vertical-video" controls="controls" data-mce-fragment="1">
 <source src="https://thecontrastudios.com/media/posts/11/EP7Es.webm" type="video/webm" /></video></p>
-<p class="align-center"><video loading="lazy" width="370" height="580" controls="controls" data-mce-fragment="1">
-<source src="https://thecontrastudios.com/media/posts/11/13.webm" type="video/webm" /></video></p>
+<p class="align-center"><video loading="lazy" width="380" height="380" class="vertical-video" muted="" autoplay="autoplay" loop="loop" data-mce-fragment="1">
+<source src="https://thecontrastudios.com/media/posts/11/bandsaw.mp4" type="video/mp4" /></video><video loading="lazy" width="380" height="380" class="vertical-video" muted="" autoplay="autoplay" loop="loop" data-mce-fragment="1">
+<source src="https://thecontrastudios.com/media/posts/11/couch.mp4" type="video/mp4" /></video></p>
             ]]>
         </content>
     </entry>
@@ -82,8 +100,8 @@
 <tbody>
 <tr style="height: 75.3365px;">
 <td class="align-center" style="width: 28.38%; height: 75.3365px;">Unity Shader Graph</td>
-<td class="align-center" style="width: 23.8143%; height: 75.3365px;">Lead Developer</td>
-<td class="align-center" style="width: 14.546%; height: 75.3365px;">3D Artist</td>
+<td class="align-center" style="width: 23.8143%; height: 75.3365px;">Desarrollador principal</td>
+<td class="align-center" style="width: 14.546%; height: 75.3365px;">Artista 3D</td>
 <td class="align-center" style="width: 14.8312%; height: 75.3365px;">Unity 3D</td>
 <td style="width: 8.12862%; height: 75.3365px;">C#</td>
 <td style="width: 10.2677%;">URP</td>
