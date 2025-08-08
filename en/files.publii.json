@@ -92,17 +92,17 @@
     {
         "path": "/el-jardin-de-edgar/index.html",
         "type": "file",
-        "md5": "78560269bc305dc5b588d9f69646d158"
+        "md5": "b53651416dcf749774d68f4d1274eec7"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "297abbb0178af620cfe39324218cf46f"
+        "md5": "2f2956da632e8c78fa5b37aef9b945d7"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "686db5e344dfed5aadcb304d8cf4f5c7"
+        "md5": "f98e6d0c0890d2eb0c9446f1c97256a9"
     },
     {
         "path": "honorable-mention",
@@ -457,7 +457,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "4de3b357cea47439cc4d37d3b83b3f60"
+        "md5": "c5936897b656e64224eb36798c230956"
     },
     {
         "path": "sitemap.xsl",
