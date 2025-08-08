@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://thecontrastudios.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://thecontrastudios.com/en/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://thecontrastudios.com/</loc>
+<loc>https://thecontrastudios.com/en/</loc>
 </url>
 <url>
-<loc>https://thecontrastudios.com/el-contra-club-en/</loc>
+<loc>https://thecontrastudios.com/en/el-contra-club-en/</loc>
 <lastmod>2025-08-08T00:23:13-05:00</lastmod>
 <image:image>
-<image:loc>https://thecontrastudios.com/media/posts/11/ContraClub.png</image:loc>
+<image:loc>https://thecontrastudios.com/en/media/posts/11/ContraClub.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://thecontrastudios.com/el-jardin-de-edgar-en/</loc>
+<loc>https://thecontrastudios.com/en/el-jardin-de-edgar-en/</loc>
 <lastmod>2025-08-08T00:23:21-05:00</lastmod>
 <image:image>
-<image:loc>https://thecontrastudios.com/media/posts/9/Jardin.PNG</image:loc>
+<image:loc>https://thecontrastudios.com/en/media/posts/9/Jardin.PNG</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://thecontrastudios.com/mencion-de-honor-en/</loc>
+<loc>https://thecontrastudios.com/en/mencion-de-honor-en/</loc>
 <lastmod>2025-08-08T00:23:48-05:00</lastmod>
 </url>
 <url>
-<loc>https://thecontrastudios.com/revuelo-en/</loc>
+<loc>https://thecontrastudios.com/en/revuelo-en/</loc>
 <lastmod>2025-08-08T00:23:18-05:00</lastmod>
 <image:image>
-<image:loc>https://thecontrastudios.com/media/posts/12/Sin-titulo-1.png</image:loc>
+<image:loc>https://thecontrastudios.com/en/media/posts/12/Sin-titulo-1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://thecontrastudios.com/tiempos-como-estos-en/</loc>
+<loc>https://thecontrastudios.com/en/tiempos-como-estos-en/</loc>
 <lastmod>2025-08-08T00:23:09-05:00</lastmod>
 <image:image>
-<image:loc>https://thecontrastudios.com/media/posts/10/daCSMX.png</image:loc>
+<image:loc>https://thecontrastudios.com/en/media/posts/10/daCSMX.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
