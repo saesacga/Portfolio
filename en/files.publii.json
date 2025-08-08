@@ -1,0 +1,492 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "537bdd9f117db35f4db15f7e7d3d6bad"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "ab1a2743577e8ff738ce7d0ca4b488f0"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "e4402e3cc16167b5bf00498e6566a4ce"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "919cc5b2feecc1f8271ae2f2fbe37ad5"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "cf6608e80a8ab966619b3fe23193f172"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "9c5ab7a87221183f149a42b3cceb7956"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ab8b0bd0bf06ea275e9529fd15a76765"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "9561258c027307c78952ab47359b1e2a"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/samuel-esteban-acosta-gaviria",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/samuel-esteban-acosta-gaviria/index.html",
+        "type": "file",
+        "md5": "171c5c40d80b05d03a067d6ec3bfba8c"
+    },
+    {
+        "path": "el-contra-club",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/el-contra-club/index.html",
+        "type": "file",
+        "md5": "2594a3eee3d6c1c6395e77a29e11c82e"
+    },
+    {
+        "path": "el-jardin-de-edgar",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/el-jardin-de-edgar/index.html",
+        "type": "file",
+        "md5": "6e27ed352fca5ea7d0bc5d5f5033e438"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "058937700e9e01bb9b4da817654bbfca"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "018702e8f83d71fe1703571b68b14878"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "86d2c92a1b80a8848865a81e4134dcba"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/github-mark.svg",
+        "type": "file",
+        "md5": "8dcc6b5262f3b6138b1566b357ba89a9"
+    },
+    {
+        "path": "/media/files/itchio-logo-textless-black.svg",
+        "type": "file",
+        "md5": "431dd759e379943e905e08c0e18c2852"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/daCSMX.png",
+        "type": "file",
+        "md5": "3649f0696fc86cb6bfead0f190439edd"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/daCSMX-lg.png",
+        "type": "file",
+        "md5": "53e8bd45fe3f809e62a930decb4610f0"
+    },
+    {
+        "path": "/media/posts/10/responsive/daCSMX-md.png",
+        "type": "file",
+        "md5": "b750a8a30d3ce06bb7ee872c6a24ea5b"
+    },
+    {
+        "path": "/media/posts/10/responsive/daCSMX-sm.png",
+        "type": "file",
+        "md5": "ff1dbb7950fbf55905d5159451b1a142"
+    },
+    {
+        "path": "/media/posts/10/responsive/daCSMX-xl.png",
+        "type": "file",
+        "md5": "0574e498fceba09fd9d31200aac5fc0a"
+    },
+    {
+        "path": "/media/posts/10/responsive/daCSMX-xs.png",
+        "type": "file",
+        "md5": "26f3fe41dfc57c8e0a6869e7ce35768e"
+    },
+    {
+        "path": "/media/posts/10/TCEAMA.webm",
+        "type": "file",
+        "md5": "0777f2182043aaae5b6c6c8a1f463330"
+    },
+    {
+        "path": "/media/posts/10/TCECinemachine.webm",
+        "type": "file",
+        "md5": "483f5fe47dba61c547b891c055fc59c3"
+    },
+    {
+        "path": "/media/posts/10/TCECollector.webm",
+        "type": "file",
+        "md5": "274afc4724fd718a2ff0c91c56bed21e"
+    },
+    {
+        "path": "/media/posts/10/TCEIntro.webm",
+        "type": "file",
+        "md5": "a46b3830db9192c05bcf60a26e6e0cbf"
+    },
+    {
+        "path": "/media/posts/10/TCEMagic.webm",
+        "type": "file",
+        "md5": "dfb337bb1c5cfa31b35c4f5e65f3233e"
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/13.webm",
+        "type": "file",
+        "md5": "5aac087c5a09cf389774aab561d40592"
+    },
+    {
+        "path": "/media/posts/11/bandsaw.webm",
+        "type": "file",
+        "md5": "2d4e0533a30368cd113817cb8c110426"
+    },
+    {
+        "path": "/media/posts/11/boxes.webm",
+        "type": "file",
+        "md5": "2fdd4eacd53a442b62f7c396278e2511"
+    },
+    {
+        "path": "/media/posts/11/breakdance.webm",
+        "type": "file",
+        "md5": "ccdddd89aa86a506e676f0fe5af65630"
+    },
+    {
+        "path": "/media/posts/11/ContraClub.png",
+        "type": "file",
+        "md5": "b983df464263e6a5d86eba78ec9dafc7"
+    },
+    {
+        "path": "/media/posts/11/couch.webm",
+        "type": "file",
+        "md5": "bef4e955a2ed7fcde2aaaf38237044b6"
+    },
+    {
+        "path": "/media/posts/11/EP7Es.webm",
+        "type": "file",
+        "md5": "4a2b8beb44e99ea86b50de686f06c4da"
+    },
+    {
+        "path": "media/posts/11/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/responsive/ContraClub-lg.png",
+        "type": "file",
+        "md5": "974b79581ec1fafb32b11269852750b5"
+    },
+    {
+        "path": "/media/posts/11/responsive/ContraClub-md.png",
+        "type": "file",
+        "md5": "09e3f4f69a3f14482c003e52d88cdd37"
+    },
+    {
+        "path": "/media/posts/11/responsive/ContraClub-sm.png",
+        "type": "file",
+        "md5": "741373c3667554fa638abe25d9f3540a"
+    },
+    {
+        "path": "/media/posts/11/responsive/ContraClub-xl.png",
+        "type": "file",
+        "md5": "7a3990a463138a94a28e7071495590be"
+    },
+    {
+        "path": "/media/posts/11/responsive/ContraClub-xs.png",
+        "type": "file",
+        "md5": "935538e956bf95374eb023c975e3bc03"
+    },
+    {
+        "path": "/media/posts/11/stairs.webm",
+        "type": "file",
+        "md5": "3acbde089565e7b4e1ab8657469de8fc"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/Sin-titulo-1-lg.png",
+        "type": "file",
+        "md5": "fcabd886695a099e4598addbe71ce51d"
+    },
+    {
+        "path": "/media/posts/12/responsive/Sin-titulo-1-md.png",
+        "type": "file",
+        "md5": "a0fcddaa9226c4b216567804aad03fa1"
+    },
+    {
+        "path": "/media/posts/12/responsive/Sin-titulo-1-sm.png",
+        "type": "file",
+        "md5": "ae1c0d35b746b8e138b72a3fa8dd7dad"
+    },
+    {
+        "path": "/media/posts/12/responsive/Sin-titulo-1-xl.png",
+        "type": "file",
+        "md5": "40a03579a9097192b8da8a549e8a2fa1"
+    },
+    {
+        "path": "/media/posts/12/responsive/Sin-titulo-1-xs.png",
+        "type": "file",
+        "md5": "951f3fb2b4ae081d889f7e001736b6dc"
+    },
+    {
+        "path": "/media/posts/12/Sin-titulo-1.png",
+        "type": "file",
+        "md5": "3eadcdd874e414bb2fd590f92d08f2ab"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/MencionHonor.pdf",
+        "type": "file",
+        "md5": "94b8b8ee1596f9ed7cfacaf7158ca6e7"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/Atmosphere-2.webm",
+        "type": "file",
+        "md5": "2472f8049428b7c2432b28984fc746c7"
+    },
+    {
+        "path": "/media/posts/9/CinemachineExample.webm",
+        "type": "file",
+        "md5": "d05b12c68cc24986607ddad13b021acb"
+    },
+    {
+        "path": "/media/posts/9/FungusExample.webm",
+        "type": "file",
+        "md5": "b6452cb5a44fa65815feb086baf2be0a"
+    },
+    {
+        "path": "/media/posts/9/Jardin.PNG",
+        "type": "file",
+        "md5": "9c585958e4367174f3639b3cca7f5fbb"
+    },
+    {
+        "path": "/media/posts/9/PathfindExample.webm",
+        "type": "file",
+        "md5": "58c72fccbee9e0706f2058ca523ba163"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/Jardin-lg.PNG",
+        "type": "file",
+        "md5": "0092f427d51163d8d67555cc69eff8b5"
+    },
+    {
+        "path": "/media/posts/9/responsive/Jardin-md.PNG",
+        "type": "file",
+        "md5": "b327ee687f0fb5026342ead240990ada"
+    },
+    {
+        "path": "/media/posts/9/responsive/Jardin-sm.PNG",
+        "type": "file",
+        "md5": "a7e12f7f2dd26953fcdc5da51fd56914"
+    },
+    {
+        "path": "/media/posts/9/responsive/Jardin-xl.PNG",
+        "type": "file",
+        "md5": "08e3428f0ddc2973d604728999b442b3"
+    },
+    {
+        "path": "/media/posts/9/responsive/Jardin-xs.PNG",
+        "type": "file",
+        "md5": "17a4f4a58bcbda865042ec6068d537b8"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Logo2-2.png",
+        "type": "file",
+        "md5": "1e47df7a728a9be99f0ec944de03daaf"
+    },
+    {
+        "path": "/media/website/Pixel.png",
+        "type": "file",
+        "md5": "1ea8f177ce435c66b7a20bb2d63b4ff7"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Logo2-2-sm.png",
+        "type": "file",
+        "md5": "e1d271a672871eea60a228ea688d3d5f"
+    },
+    {
+        "path": "/media/website/responsive/Logo2-2-xs.png",
+        "type": "file",
+        "md5": "ace23f56fcae31fb985ac8d809a93613"
+    },
+    {
+        "path": "/media/website/responsive/Pixel-sm.png",
+        "type": "file",
+        "md5": "a8a34f3a1dfe2e9b2f87cd46d8d69960"
+    },
+    {
+        "path": "/media/website/responsive/Pixel-xs.png",
+        "type": "file",
+        "md5": "8b52cbd1a17a6412d487e1b87132e6e9"
+    },
+    {
+        "path": "mencion-de-honor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/mencion-de-honor/index.html",
+        "type": "file",
+        "md5": "c0cd9b866017e652f4fa538ddfd1ab73"
+    },
+    {
+        "path": "revuelo",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/revuelo/index.html",
+        "type": "file",
+        "md5": "93e96a24ec3475c26ad697b06f7c2ba6"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "ca14e26ceb510f4315ce884b8e8804ae"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "f4c72fe7aeece14b23c3f69834cc4b53"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "d6493231520bc71f2cf5467952b3ba16"
+    },
+    {
+        "path": "tiempos-como-estos",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tiempos-como-estos/index.html",
+        "type": "file",
+        "md5": "78735ff6316a1a1aa13c5248012ebcb1"
+    }
+]

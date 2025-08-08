@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Samuel Gaviria - Game Developer</title>
+    <title>Samuel Gaviria - Desarrollador De Videojuegos</title>
     <link href="https://thecontrastudios.com/feed.xml" rel="self" />
     <link href="https://thecontrastudios.com" />
-    <updated>2025-08-07T23:54:42-05:00</updated>
+    <updated>2025-08-07T20:24:50-05:00</updated>
     <author>
         <name>Samuel Esteban Acosta Gaviria</name>
     </author>
     <id>https://thecontrastudios.com</id>
 
     <entry>
-        <title>Revuelo EN</title>
+        <title>Revuelo</title>
         <author>
             <name>Samuel Esteban Acosta Gaviria</name>
         </author>
@@ -36,7 +36,7 @@
         </content>
     </entry>
     <entry>
-        <title>El Contra Club EN</title>
+        <title>El Contra Club</title>
         <author>
             <name>Samuel Esteban Acosta Gaviria</name>
         </author>
@@ -73,7 +73,7 @@
         </content>
     </entry>
     <entry>
-        <title>Tiempos Como Estos EN</title>
+        <title>Tiempos Como Estos</title>
         <author>
             <name>Samuel Esteban Acosta Gaviria</name>
         </author>
@@ -123,7 +123,7 @@
         </content>
     </entry>
     <entry>
-        <title>El Jardín de Edgar EN</title>
+        <title>El Jardín de Edgar</title>
         <author>
             <name>Samuel Esteban Acosta Gaviria</name>
         </author>
