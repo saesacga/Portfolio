@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "178227b56d796aaa6f83777e9adb0fa2"
+        "md5": "dc7527c62738fb4824668dffa096f71e"
     },
     {
         "path": "assets",
@@ -82,7 +82,7 @@
     {
         "path": "/authors/samuel-esteban-acosta-gaviria/index.html",
         "type": "file",
-        "md5": "2882a9362f131e6b4d42cc6c63c480e8"
+        "md5": "5a309050190bdf5747b53d95abbed545"
     },
     {
         "path": "el-jardin-de-edgar-en",
@@ -92,7 +92,7 @@
     {
         "path": "/el-jardin-de-edgar-en/index.html",
         "type": "file",
-        "md5": "d98157d4e0c09bcead13b0ecffdad001"
+        "md5": "e7081f098f1d204bc1394b6ece49a23c"
     },
     {
         "path": "feed.json",
@@ -112,12 +112,12 @@
     {
         "path": "/honorable-mention/index.html",
         "type": "file",
-        "md5": "7215ed1b60ded8d9d0973eea800526b1"
+        "md5": "8f9f6e6dbf5b4990fbc9d13046659299"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "7b18298bc4853a4b3178b9e6b462c037"
+        "md5": "c575c66321ef7db1ee1581549327e488"
     },
     {
         "path": "media",
@@ -143,11 +143,6 @@
         "path": "/media/files/SpainFlag.png",
         "type": "file",
         "md5": "bf896b922a1c64f771d50dd986feb8c6"
-    },
-    {
-        "path": "/media/files/UKFlag.png",
-        "type": "file",
-        "md5": "5c1f9bbe155e84e335c8a1a26ac46462"
     },
     {
         "path": "media/posts",
@@ -452,7 +447,7 @@
     {
         "path": "/revuelo/index.html",
         "type": "file",
-        "md5": "0baafac7dfd034c3e732a813cbf56229"
+        "md5": "ebf80e4e17024a54d5402f65f4eb6578"
     },
     {
         "path": "robots.txt",
@@ -477,7 +472,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "c64ccd5d8349699ebf27ec14d92632c5"
+        "md5": "ca6b142577cf1bc393b867f5d18bfc13"
     },
     {
         "path": "the-contra-club",
@@ -487,7 +482,7 @@
     {
         "path": "/the-contra-club/index.html",
         "type": "file",
-        "md5": "c14db8b12091bf3be5bfc71ebeec024f"
+        "md5": "b8cf4e8d2a7ff140a3ecf27862da5da2"
     },
     {
         "path": "times-like-these",
@@ -497,6 +492,6 @@
     {
         "path": "/times-like-these/index.html",
         "type": "file",
-        "md5": "cb6c97e3dea4ca187a718124c1f5df0f"
+        "md5": "acb02a9277030942fe9aaa525530e3f2"
     }
 ]
