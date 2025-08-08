@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "ce410607b2727bf3ab970e9e2c18220c"
+        "md5": "76fa9e4592c16378b814ae7f559338cc"
     },
     {
         "path": "assets",
@@ -27,7 +27,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "919cc5b2feecc1f8271ae2f2fbe37ad5"
+        "md5": "cf86b0e4526930bf4e623d782a68f8da"
     },
     {
         "path": "assets/dynamic",
@@ -82,7 +82,7 @@
     {
         "path": "/authors/samuel-esteban-acosta-gaviria/index.html",
         "type": "file",
-        "md5": "893bb7ef3ac5020eed9edc09afb27816"
+        "md5": "69ed94a4786c07cc980048cb04561ac5"
     },
     {
         "path": "el-contra-club",
@@ -92,7 +92,7 @@
     {
         "path": "/el-contra-club/index.html",
         "type": "file",
-        "md5": "fde9421dc386b75fe5b8f4e8e8cff70e"
+        "md5": "7985f083d845ae311f7dae64ae4a9e31"
     },
     {
         "path": "el-jardin-de-edgar",
@@ -102,7 +102,7 @@
     {
         "path": "/el-jardin-de-edgar/index.html",
         "type": "file",
-        "md5": "ee4d94be39dccec5814d38652fa2e0e0"
+        "md5": "e2f7c0d9e13d86fcc574e27afd9861fc"
     },
     {
         "path": "feed.json",
@@ -117,7 +117,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "e0a6699dae740b4f5b9886d640378517"
+        "md5": "637913eb595c764f586a3b744c0add5e"
     },
     {
         "path": "media",
@@ -442,7 +442,7 @@
     {
         "path": "/mencion-de-honor/index.html",
         "type": "file",
-        "md5": "55c132531f4d1c34c1acd622174e7737"
+        "md5": "8e06d55d25b7c7e6a7eeba94ee625a8c"
     },
     {
         "path": "revuelo",
@@ -452,7 +452,7 @@
     {
         "path": "/revuelo/index.html",
         "type": "file",
-        "md5": "8a2aa2b2bbbf432f6352b7f2d82cfe5b"
+        "md5": "29d500323c2c00a640d232789329b63c"
     },
     {
         "path": "robots.txt",
@@ -477,7 +477,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "a62e37cf7806a8b30ea76183f61fbb16"
+        "md5": "cbda71aef5e20b786410f174c3ea4e50"
     },
     {
         "path": "tiempos-como-estos",
@@ -487,6 +487,6 @@
     {
         "path": "/tiempos-como-estos/index.html",
         "type": "file",
-        "md5": "735ab07ef14d00ba5fbaa09e1f650da5"
+        "md5": "9059b7f57b35cbb879910156f1b61f8c"
     }
 ]
