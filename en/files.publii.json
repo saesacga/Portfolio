@@ -82,27 +82,27 @@
     {
         "path": "/authors/samuel-esteban-acosta-gaviria/index.html",
         "type": "file",
-        "md5": "5a309050190bdf5747b53d95abbed545"
+        "md5": "9cfd42aad52d93c455f9efb4cf789b0d"
     },
     {
-        "path": "el-jardin-de-edgar-en",
+        "path": "el-jardin-de-edgar",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/el-jardin-de-edgar-en/index.html",
+        "path": "/el-jardin-de-edgar/index.html",
         "type": "file",
-        "md5": "e7081f098f1d204bc1394b6ece49a23c"
+        "md5": "78560269bc305dc5b588d9f69646d158"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "2925b4596721c19ccfb3d645f321c1b3"
+        "md5": "297abbb0178af620cfe39324218cf46f"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "5e8f06c8e5a9db880a5c4a492d458737"
+        "md5": "686db5e344dfed5aadcb304d8cf4f5c7"
     },
     {
         "path": "honorable-mention",
@@ -117,7 +117,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "c575c66321ef7db1ee1581549327e488"
+        "md5": "4bf5d6a3a769a1cd888db77bc6401f1c"
     },
     {
         "path": "media",
@@ -447,7 +447,7 @@
     {
         "path": "/revuelo/index.html",
         "type": "file",
-        "md5": "ebf80e4e17024a54d5402f65f4eb6578"
+        "md5": "e4d9a1a7ec59ce1322229eea49a7a769"
     },
     {
         "path": "robots.txt",
@@ -457,7 +457,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "f96605791b259d20ebf5d30b56b2aeb3"
+        "md5": "4de3b357cea47439cc4d37d3b83b3f60"
     },
     {
         "path": "sitemap.xsl",
@@ -482,7 +482,7 @@
     {
         "path": "/the-contra-club/index.html",
         "type": "file",
-        "md5": "b8cf4e8d2a7ff140a3ecf27862da5da2"
+        "md5": "6af3a4a57bb1c7ac64f79ae102a05560"
     },
     {
         "path": "times-like-these",
@@ -492,6 +492,6 @@
     {
         "path": "/times-like-these/index.html",
         "type": "file",
-        "md5": "acb02a9277030942fe9aaa525530e3f2"
+        "md5": "a5ceed1196ab074638d2aa06457e1973"
     }
 ]
