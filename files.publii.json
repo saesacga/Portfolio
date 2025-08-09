@@ -85,6 +85,16 @@
         "md5": "5396b19e08f09df79e68c0d9e708c3e8"
     },
     {
+        "path": "cv",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cv/index.html",
+        "type": "file",
+        "md5": "9268dc54992c2ad0264db4b0f54f391a"
+    },
+    {
         "path": "el-contra-club",
         "type": "directory",
         "md5": false
@@ -117,7 +127,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "dcb54a364f473fd27cf400b9ef6c1482"
+        "md5": "159bcd7319ddd2421370568605ab432a"
     },
     {
         "path": "media",
@@ -330,6 +340,16 @@
         "md5": "3eadcdd874e414bb2fd590f92d08f2ab"
     },
     {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/Samuel_Esteban_Acosta_Gaviria_Desarrollador_Videojuegos.pdf",
+        "type": "file",
+        "md5": "0685eda296780a42a0455a022ddca823"
+    },
+    {
         "path": "media/posts/8",
         "type": "directory",
         "md5": false
@@ -467,7 +487,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "bd42d5d57ec4712b90278d91d01cf1cc"
+        "md5": "e6d0e4cceb803776feb3330f0a6e380f"
     },
     {
         "path": "sitemap.xsl",

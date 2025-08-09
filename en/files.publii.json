@@ -117,7 +117,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ca8d739e58251d0359074982c9c6698c"
+        "md5": "fea49917864d10eecb95589d32ef1d24"
     },
     {
         "path": "media",
@@ -330,6 +330,16 @@
         "md5": "3eadcdd874e414bb2fd590f92d08f2ab"
     },
     {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/Samuel_Esteban_Acosta_Gaviria_Game_Developer.pdf",
+        "type": "file",
+        "md5": "04d3f2c8e106c3f8f0e09a0d9fcc70b9"
+    },
+    {
         "path": "media/posts/8",
         "type": "directory",
         "md5": false
@@ -440,6 +450,16 @@
         "md5": "8b52cbd1a17a6412d487e1b87132e6e9"
     },
     {
+        "path": "resume",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/resume/index.html",
+        "type": "file",
+        "md5": "875b4dfb8e6ef6e1fd355aded50910c7"
+    },
+    {
         "path": "revuelo",
         "type": "directory",
         "md5": false
@@ -457,7 +477,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "c5936897b656e64224eb36798c230956"
+        "md5": "8d0ee27eadde78c8ed44d934c3163940"
     },
     {
         "path": "sitemap.xsl",
