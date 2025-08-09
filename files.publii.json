@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "eb9144ff9bb581184871a4c3e5105995"
+        "md5": "90d35307de18c819e90d0c1085bd347c"
     },
     {
         "path": "assets",
@@ -82,7 +82,7 @@
     {
         "path": "/authors/samuel-esteban-acosta-gaviria/index.html",
         "type": "file",
-        "md5": "e30e9135e01b82d0caf8913d730f8479"
+        "md5": "5396b19e08f09df79e68c0d9e708c3e8"
     },
     {
         "path": "el-contra-club",
@@ -92,7 +92,7 @@
     {
         "path": "/el-contra-club/index.html",
         "type": "file",
-        "md5": "9fa49056a2e5e207ab5eb8fb4036051b"
+        "md5": "82c4baad66b7ba7748590a20ebd48b99"
     },
     {
         "path": "el-jardin-de-edgar",
@@ -102,7 +102,7 @@
     {
         "path": "/el-jardin-de-edgar/index.html",
         "type": "file",
-        "md5": "0edbe6d6096acf27943e26cbc75a1478"
+        "md5": "10b109f07ce682a2857553c8265bc450"
     },
     {
         "path": "feed.json",
@@ -117,7 +117,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "38199b3b50ec1d9f31117049ceb077b4"
+        "md5": "dcb54a364f473fd27cf400b9ef6c1482"
     },
     {
         "path": "media",
@@ -405,9 +405,9 @@
         "md5": false
     },
     {
-        "path": "/media/website/Logo2-2.png",
+        "path": "/media/website/Logo-2-2.png",
         "type": "file",
-        "md5": "1e47df7a728a9be99f0ec944de03daaf"
+        "md5": "4264caa04aeb58ea98313a1e40a3b4fe"
     },
     {
         "path": "/media/website/Pixel.png",
@@ -420,14 +420,14 @@
         "md5": false
     },
     {
-        "path": "/media/website/responsive/Logo2-2-sm.png",
+        "path": "/media/website/responsive/Logo-2-2-sm.png",
         "type": "file",
-        "md5": "e1d271a672871eea60a228ea688d3d5f"
+        "md5": "90da7474045e9aaee56dd32bac422c89"
     },
     {
-        "path": "/media/website/responsive/Logo2-2-xs.png",
+        "path": "/media/website/responsive/Logo-2-2-xs.png",
         "type": "file",
-        "md5": "ace23f56fcae31fb985ac8d809a93613"
+        "md5": "94b1d3e0282b15fd6cfd9211c74c5bc5"
     },
     {
         "path": "/media/website/responsive/Pixel-sm.png",
@@ -447,7 +447,7 @@
     {
         "path": "/mencion-de-honor/index.html",
         "type": "file",
-        "md5": "d123a486b136b10425b45ee6174a844a"
+        "md5": "d69cddfb799a547a05346b3a101df78f"
     },
     {
         "path": "revuelo",
@@ -457,7 +457,7 @@
     {
         "path": "/revuelo/index.html",
         "type": "file",
-        "md5": "3676e29bab084f4c3cd286959964edef"
+        "md5": "20497baf14584507bd7c0dd342a2a222"
     },
     {
         "path": "robots.txt",
@@ -482,7 +482,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "3faf055d2b331901d25c72af8775d621"
+        "md5": "71bef3c2689c4b609a51f4edde7192af"
     },
     {
         "path": "tiempos-como-estos",
@@ -492,6 +492,6 @@
     {
         "path": "/tiempos-como-estos/index.html",
         "type": "file",
-        "md5": "ddbe8cecab719347fbc3df5b180a377a"
+        "md5": "49d687b7b57df79ef2b0d26082df3a8c"
     }
 ]

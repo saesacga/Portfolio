@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "dc7527c62738fb4824668dffa096f71e"
+        "md5": "508d3dd8e6098d62ac4fb1e64553db07"
     },
     {
         "path": "assets",
@@ -82,7 +82,7 @@
     {
         "path": "/authors/samuel-esteban-acosta-gaviria/index.html",
         "type": "file",
-        "md5": "9cfd42aad52d93c455f9efb4cf789b0d"
+        "md5": "8d0727f82fb7ad26895d5e2d945c2536"
     },
     {
         "path": "el-jardin-de-edgar",
@@ -92,7 +92,7 @@
     {
         "path": "/el-jardin-de-edgar/index.html",
         "type": "file",
-        "md5": "b53651416dcf749774d68f4d1274eec7"
+        "md5": "59ee7e4b8f059a7add925a6967534a7a"
     },
     {
         "path": "feed.json",
@@ -112,12 +112,12 @@
     {
         "path": "/honorable-mention/index.html",
         "type": "file",
-        "md5": "8f9f6e6dbf5b4990fbc9d13046659299"
+        "md5": "2414c38cbfe30c71bc17c9a1a3ba158b"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "4bf5d6a3a769a1cd888db77bc6401f1c"
+        "md5": "ca8d739e58251d0359074982c9c6698c"
     },
     {
         "path": "media",
@@ -405,9 +405,9 @@
         "md5": false
     },
     {
-        "path": "/media/website/Logo2-2.png",
+        "path": "/media/website/Logo-2-2.png",
         "type": "file",
-        "md5": "1e47df7a728a9be99f0ec944de03daaf"
+        "md5": "4264caa04aeb58ea98313a1e40a3b4fe"
     },
     {
         "path": "/media/website/Pixel.png",
@@ -420,14 +420,14 @@
         "md5": false
     },
     {
-        "path": "/media/website/responsive/Logo2-2-sm.png",
+        "path": "/media/website/responsive/Logo-2-2-sm.png",
         "type": "file",
-        "md5": "e1d271a672871eea60a228ea688d3d5f"
+        "md5": "90da7474045e9aaee56dd32bac422c89"
     },
     {
-        "path": "/media/website/responsive/Logo2-2-xs.png",
+        "path": "/media/website/responsive/Logo-2-2-xs.png",
         "type": "file",
-        "md5": "ace23f56fcae31fb985ac8d809a93613"
+        "md5": "94b1d3e0282b15fd6cfd9211c74c5bc5"
     },
     {
         "path": "/media/website/responsive/Pixel-sm.png",
@@ -447,7 +447,7 @@
     {
         "path": "/revuelo/index.html",
         "type": "file",
-        "md5": "e4d9a1a7ec59ce1322229eea49a7a769"
+        "md5": "9c6512a02ff77e7e902c406fecc96976"
     },
     {
         "path": "robots.txt",
@@ -472,7 +472,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "ca6b142577cf1bc393b867f5d18bfc13"
+        "md5": "8287d2cbd13f842af571efb7114c4e69"
     },
     {
         "path": "the-contra-club",
@@ -482,7 +482,7 @@
     {
         "path": "/the-contra-club/index.html",
         "type": "file",
-        "md5": "6af3a4a57bb1c7ac64f79ae102a05560"
+        "md5": "6503781829e64e590f6c2aa528e0680e"
     },
     {
         "path": "times-like-these",
@@ -492,6 +492,6 @@
     {
         "path": "/times-like-these/index.html",
         "type": "file",
-        "md5": "a5ceed1196ab074638d2aa06457e1973"
+        "md5": "52e87317e714de56868c31cd6d6e8abe"
     }
 ]
