@@ -350,6 +350,16 @@
         "md5": "5450ca15c24fe4ee2d407a59535eafe3"
     },
     {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/certificado_promedio.pdf",
+        "type": "file",
+        "md5": "7298b7d5ab2d94c7371c3cc4454ee672"
+    },
+    {
         "path": "media/posts/8",
         "type": "directory",
         "md5": false
@@ -470,6 +480,16 @@
         "md5": "d69cddfb799a547a05346b3a101df78f"
     },
     {
+        "path": "promedio-academico",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/promedio-academico/index.html",
+        "type": "file",
+        "md5": "43103903c5dde7517091589d5a51eded"
+    },
+    {
         "path": "revuelo",
         "type": "directory",
         "md5": false
@@ -487,7 +507,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "90f2f76a1889641c552816befbdb84b9"
+        "md5": "d66783a616ff792e3402698cce5754a9"
     },
     {
         "path": "sitemap.xsl",
