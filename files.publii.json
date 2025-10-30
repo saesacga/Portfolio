@@ -82,7 +82,7 @@
     {
         "path": "/authors/samuel-esteban-acosta-gaviria/index.html",
         "type": "file",
-        "md5": "b570c52ace067671a40b7c973765c922"
+        "md5": "99f61fbeee493c662f7c3fbcd8f30ffd"
     },
     {
         "path": "cv",
@@ -112,22 +112,22 @@
     {
         "path": "/el-jardin-de-edgar/index.html",
         "type": "file",
-        "md5": "456165c4bde95bf28c40ec8ce93fc198"
+        "md5": "93fffbb44f70319e5b8c56209f9a66cc"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "cfb9b183a6b746c3ba6ce07f1b0e8f7b"
+        "md5": "2a5d5210f684957b13528e52c0bf87a2"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ab3f969357ec737f7761e3a21e25e36c"
+        "md5": "4f00c4031f0c78cf199cf344ed590451"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a4cb62ac19444cabd43a95b73da07518"
+        "md5": "59f915ed603a3e7d9bc0ef4b26a9f67a"
     },
     {
         "path": "media",
@@ -367,7 +367,7 @@
     {
         "path": "/media/posts/13/Samuel_Esteban_Acosta_Gaviria_Desarrollador_Videojuegos.pdf",
         "type": "file",
-        "md5": "d61bce7f7f5fc7435cd49a1ee3cf8626"
+        "md5": "0b6c7f2cd636138cb85bccb7e1cc1511"
     },
     {
         "path": "media/posts/14",
@@ -405,6 +405,11 @@
         "md5": "d05b12c68cc24986607ddad13b021acb"
     },
     {
+        "path": "/media/posts/9/Edgar.png",
+        "type": "file",
+        "md5": "ac8e00aeec16ca64a2bff26b5e28f8d3"
+    },
+    {
         "path": "/media/posts/9/FungusExample.webm",
         "type": "file",
         "md5": "b6452cb5a44fa65815feb086baf2be0a"
@@ -413,6 +418,36 @@
         "path": "/media/posts/9/PathfindExample.webm",
         "type": "file",
         "md5": "58c72fccbee9e0706f2058ca523ba163"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/Edgar-lg.png",
+        "type": "file",
+        "md5": "f6423d31dbaebbb07f743225a1a8d261"
+    },
+    {
+        "path": "/media/posts/9/responsive/Edgar-md.png",
+        "type": "file",
+        "md5": "6cf465d9f02573a9ad61e3e7e89adc26"
+    },
+    {
+        "path": "/media/posts/9/responsive/Edgar-sm.png",
+        "type": "file",
+        "md5": "1b08db12a300fbd15ebf371e5d93e1aa"
+    },
+    {
+        "path": "/media/posts/9/responsive/Edgar-xl.png",
+        "type": "file",
+        "md5": "d26b65174eb7db51c24e77e2081b08ae"
+    },
+    {
+        "path": "/media/posts/9/responsive/Edgar-xs.png",
+        "type": "file",
+        "md5": "65b45fe4b9b73f7c668e9ebc0925715f"
     },
     {
         "path": "media/website",
@@ -482,7 +517,7 @@
     {
         "path": "/revuelo/index.html",
         "type": "file",
-        "md5": "a8be41087d622fcfb9e875020788197a"
+        "md5": "4006976a25dafb39486155726e8f8f71"
     },
     {
         "path": "robots.txt",
@@ -492,7 +527,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "f3ee0a4db8ca3e9d8c1f865cd781e67e"
+        "md5": "e84ae46cf62cbff49f00374bca6a15b8"
     },
     {
         "path": "sitemap.xsl",
